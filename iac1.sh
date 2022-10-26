@@ -40,4 +40,3 @@ chmod 777 /publica
 
 echo "Fim da Criacao..."
 
-exit
