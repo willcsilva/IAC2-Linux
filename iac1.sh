@@ -39,3 +39,5 @@ chmod 770 /sec
 chmod 777 /publica
 
 echo "Fim da Criacao..."
+
+exit
