@@ -31,5 +31,4 @@ systemctl enable apache2
 
 systemctl start apache2
 
-exit
 
